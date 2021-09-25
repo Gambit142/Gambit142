@@ -36,7 +36,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gambit142&theme=merko" />
 </a>
 
-## **Connect with me**<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+<h3 align="center"><b>Connect with me</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3>
 
 <p align="center">
   <a target="_blank"
