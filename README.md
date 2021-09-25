@@ -2,7 +2,7 @@
 <h3 align="center">A Full-stack web developer from Nigeria.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gambit142&label=Views&color=blue&style=plastic" alt="Francis Ugorji" /></p>
 
-### About me 1f3c4 1f3ff # dark skin tone
+### About me :man:mediumdark_skin_tone:
 <!--
 **Gambit142/Gambit142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
