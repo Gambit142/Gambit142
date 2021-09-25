@@ -2,7 +2,14 @@
 <h3 align="center">A Full-stack web developer from Nigeria.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gambit142&label=Views&color=blue&style=plastic" alt="Francis Ugorji" /></p>
 
-### About me :man:mediumdark_skin_tone:
+### About me 👨🏿
+
+- [] I am currently studying **Full-stack web development** at ![](https://img.shields.io/badge/-Microverse-blueviolet) :computer
+- [] I’m currently learning the best practices towards working as a remote software developer with the help of ![](https://img.shields.io/badge/-Microverse-blueviolet) :book
+- []  I'm interested in collaborating and contributing to open source projects. 👯
+- [] I would like to contribute to the field of `data science` and `cyber security` in the future.
+- [] I have a masters degree in Risk Management from ![](https://img.shields.io/badge/-University%20of%20Lagos-green) and a Business Management certification from ![](https://img.shields.io/badge/-European%20Business%20University-rgb(29%2C%2025%2C%2018)) :school
+- [] In my spare time, I love playing soccer :soccer going to the cinemas :cinema listening to music :musical_note and reading books 📔 
 <!--
 **Gambit142/Gambit142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
