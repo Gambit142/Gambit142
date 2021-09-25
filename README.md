@@ -1,6 +1,8 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">! I'm Francis Ugorji&nbsp;(Gambit142)</h1>
-### Hi there 👋
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I'm Francis Ugorji&nbsp;(Gambit142)</h1>
+<h3 align="center">A Full-stack web developer from Nigeria.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gambit142&label=Views&color=blue&style=plastic" alt="Francis Ugorji" /></p>
 
+### About me :man::skin-tone-6:
 <!--
 **Gambit142/Gambit142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
