@@ -1,3 +1,4 @@
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">! I'm Francis Ugorji&nbsp;(Gambit142)</h1>
 ### Hi there 👋
 
 <!--
